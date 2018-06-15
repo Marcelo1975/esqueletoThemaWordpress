@@ -1,0 +1,59 @@
+body{
+	background-color:#00FF00;
+}
+.main_menu{
+	background-color:#FF0000;
+}
+.main_menu ul,
+.main_menu li{
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+.main_menu li{
+	display:inline-block;
+}
+.container{
+	width:70%;
+	float:left;
+}
+.fullwidth{
+	width:100%;
+}
+sidebar{
+	width:30%;
+	float:left;
+}
+article{
+	background-color:#FFF;
+	border-bottom:1px solid #000;
+	margin:10px;
+	padding:10px;
+}
+article .post_thumbnail{
+	float:left;
+	margin-right:20px;
+}
+.paginacao{
+	margin-top:30px;
+	margin-bottom:30px;
+}
+.pagina_anterior{
+	float:left; 
+}
+.proxima_pagina{
+	float:right;
+}
+footer{
+	margin-top:50px;
+}
+.post_related_item{
+	width:33%;
+	float:left;
+}
+.custom-logo{
+	width:70px;
+	height:70px;
+	float:left;
+	margin-right:20px;
+}
